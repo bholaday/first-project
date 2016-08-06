@@ -24,6 +24,12 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 # styling sass bootstrap
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+# add Font Awseome capability
+gem 'font-awesome-sass', '~> 4.6.2'
+# add sass extras
+gem 'bootstrap-sass-extras', '~> 0.0.2'
+# add rails devise
+gem 'devise', '~> 4.2'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
